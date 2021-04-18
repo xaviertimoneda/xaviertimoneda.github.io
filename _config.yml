@@ -85,7 +85,7 @@ author:
   bio              : "Xavier Timoneda is a Deep Learning Researcher at IBM Zürich. Previously, he worked for Huawei technologies, ETH ETH Zürich and Polytechnic University of Catalonia. His research interests include Deep Learning, Perception, Autonomous Vehicles, Reinforcement Learning, Object segmentation, and Electronics. "
   location         : "Zürich, Switzerland"
   employer         : "IBM Research Zürich"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.es/citations?user=XIBgaEoAAAAJ&hl=es&oi=ao"
   email            : "xavitimonedacomas@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
