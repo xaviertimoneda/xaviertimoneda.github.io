@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xavier Timoneda"
-  avatar           : "photo.png"
+  avatar           : "profile.png"
   bio              : "Xavier Timoneda is a Deep Learning Researcher at IBM Zürich. Previously, he worked for Huawei technologies, ETH ETH Zürich and Polytechnic University of Catalonia. His research interests include Deep Learning, Perception, Autonomous Vehicles, Reinforcement Learning, Object segmentation, and Electronics. "
   location         : "Zürich, Switzerland"
   employer         : "IBM Research Zürich"
